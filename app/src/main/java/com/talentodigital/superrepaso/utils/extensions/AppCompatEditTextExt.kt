@@ -42,3 +42,12 @@ fun AppCompatEditText.isValidPassInput(message: String) : Boolean{
     }
     return result
 }
+
+fun AppCompatEditText.isValidConfirmPassInput(message: String, pass: String) : Boolean {
+    val result = pass == text.toString()
+    if(!result){
+        error = message
+        requestFocus()
+    }
+    return result
+}

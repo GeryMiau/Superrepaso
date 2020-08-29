@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "454957394762",
+    "firebase_url": "https://orden-de-trabajo-dood-corp.firebaseio.com",
+    "project_id": "orden-de-trabajo-dood-corp",
+    "storage_bucket": "orden-de-trabajo-dood-corp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454957394762:android:805395948dbae522b76fb3",
+        "android_client_info": {
+          "package_name": "com.doodcorp.ordentrabajo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454957394762-4mmqa2insbniot7otmg1l5oog4u023nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfno7dAz7_zLzj4PsZITfYEu_uGToDkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454957394762-4mmqa2insbniot7otmg1l5oog4u023nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454957394762:android:8769cf9b44eca66db76fb3",
+        "android_client_info": {
+          "package_name": "com.talentodigital.superrepaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454957394762-4mmqa2insbniot7otmg1l5oog4u023nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfno7dAz7_zLzj4PsZITfYEu_uGToDkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454957394762-4mmqa2insbniot7otmg1l5oog4u023nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

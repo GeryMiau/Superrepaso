@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SuperRepaso</string>
+    <string name="nombre_y_apellido">Nombre y Apellido</string>
+    <string name="et_ingresa_nombre_y_apellido">Ingresa Nombre y Apellido</string>
+    <string name="tv_rut">Rut</string>
+    <string name="et_ingresa_tu_rut">Ingresa tu rut</string>
+    <string name="tv_email">Email</string>
+    <string name="et_ingresa_tu_email">Ingresa tu email</string>
+    <string name="tv_contrasena">Contraseña</string>
+    <string name="et_ingresa_tu_contrasena">Ingresa tu contraseña</string>
+    <string name="tv_confirma_tu_contrasena">Confirma tu contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_volver">Volver</string>
 </resources>

@@ -1,7 +1,8 @@
 package com.talentodigital.superrepaso.registro.domain
 
-class RegistroUsuario (
+data class RegistroUsuario (
     val nombre: String,
     val rut: String,
-    val pass: String
+    val pass: String,
+    val email: String
 )
